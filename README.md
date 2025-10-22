@@ -1,6 +1,6 @@
 # Sistema de Recomendação de Filmes
 
-## 📚 Sobre o Projeto
+## Sobre o Projeto
 Este projeto foi desenvolvido por mim e um companheiro de classe como projeto final para a disciplina de Álgebra Linear Algorítmica.
 
 O objetivo é criar um sistema simples de recomendação de filmes. O usuário fornece os IDs e suas avaliações (notas de 1 a 5) para até 5 filmes que já assistiu. Com base nessas preferências, o sistema utiliza técnicas de análise de características (como gêneros e tags) e similaridade para sugerir 5 novos filmes. Adicionalmente, gera um gráfico 2D que visualiza a posição dos filmes avaliados e recomendados em relação aos demais do banco de dados.
@@ -9,7 +9,7 @@ O objetivo é criar um sistema simples de recomendação de filmes. O usuário f
 
 
 
-## ✨ Funcionalidades
+## Funcionalidades
 Entrada do Usuário: Permite que o usuário insira o ID e a nota (1 a 5) para até 5 filmes.
 
 
@@ -43,7 +43,7 @@ Remove filmes duplicados da lista final de recomendações.
 
 Limita o número de recomendações a 5 filmes.
 
-## 📊 Banco de Dados Utilizado
+## Banco de Dados Utilizado
 O sistema utiliza o dataset MovieLens Latest (small) fornecido pelo GroupLens. Ele é composto por três arquivos principais:
 
 
@@ -58,7 +58,7 @@ tags.csv: Contém tags aplicadas por usuários aos filmes, usadas como caracter�
 
 Nota: O dataset completo pode ser baixado do site do GroupLens.
 
-## ⚙️ Como Funciona (Visão Geral)
+## Como Funciona (Visão Geral)
 
 Carregamento e Preparação: Os dados dos arquivos movies.csv, tags.csv e ratings.csv são carregados.
 
