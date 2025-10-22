@@ -60,7 +60,7 @@ Nota: O dataset completo pode ser baixado do site do GroupLens.
 
 ## ⚙️ Como Funciona (Visão Geral)
 
-Carregamento e Preparação: Os dados dos arquivos movies.csv e tags.csv são carregados.
+Carregamento e Preparação: Os dados dos arquivos movies.csv, tags.csv e ratings.csv são carregados.
 
 
 
