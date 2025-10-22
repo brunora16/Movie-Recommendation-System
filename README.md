@@ -1,7 +1,7 @@
 # Sistema de Recomendação de Filmes
 
 ## 📚 Sobre o Projeto
-Este projeto foi desenvolvido como trabalho para a disciplina de Álgebra Linear Algorítmica por Renan de Medeiros Guedes e Bruno Rodrigues Amorim.
+Este projeto foi desenvolvido por mim e um companheiro de classe como projeto final para a disciplina de Álgebra Linear Algorítmica.
 
 O objetivo é criar um sistema simples de recomendação de filmes. O usuário fornece os IDs e suas avaliações (notas de 1 a 5) para até 5 filmes que já assistiu. Com base nessas preferências, o sistema utiliza técnicas de análise de características (como gêneros e tags) e similaridade para sugerir 5 novos filmes. Adicionalmente, gera um gráfico 2D que visualiza a posição dos filmes avaliados e recomendados em relação aos demais do banco de dados.
 
